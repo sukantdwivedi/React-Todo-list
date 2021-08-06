@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First BLog",
+      "body": "Why do we use it?\nIt is a long established fact that a render will be distracted",
+      "author": "sukant",
+      "id": 1
+    },
+    {
+      "title": "Opening Party",
+      "body": "Why do we use it?\nIt is a long established fact that a render will be distracted",
+      "author": "vivek",
+      "id": 2
+    },
+    {
+      "title": "Another One",
+      "body": "lelahhhh",
+      "author": "sukant",
+      "id": 3
+    }
+  ]
+}
